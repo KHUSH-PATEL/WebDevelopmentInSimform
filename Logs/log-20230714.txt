@@ -1,0 +1,5 @@
+14-Jul-2023 12:32:47.966 +05:30 [ERR] Health check StudentAPICheck with status "Unhealthy" completed after 4205.1001ms with message 'null'
+14-Jul-2023 12:33:22.107 +05:30 [ERR] Health check StudentAPICheck with status "Unhealthy" completed after 4092.0616ms with message 'null'
+14-Jul-2023 12:34:14.542 +05:30 [ERR] Health check StudentAPICheck with status "Unhealthy" completed after 4088.4816ms with message 'null'
+14-Jul-2023 12:35:18.975 +05:30 [ERR] Health check StudentAPICheck with status "Unhealthy" completed after 10483.3888ms with message 'null'
+14-Jul-2023 12:38:06.026 +05:30 [ERR] Health check StudentAPICheck with status "Unhealthy" completed after 134.5214ms with message 'null'

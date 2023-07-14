@@ -1,0 +1,9 @@
+repository pattern
+code first approach
+Sentry Integration
+Sonar Cube Integration
+Serilog
+Api Versioning
+API Health Check Monitoring
+Fluent validation
+Logging 

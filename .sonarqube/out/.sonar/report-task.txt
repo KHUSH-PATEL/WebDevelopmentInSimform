@@ -1,0 +1,6 @@
+projectKey=Practical22
+serverUrl=http://127.0.0.1:9000
+serverVersion=10.1.0.73491
+dashboardUrl=http://127.0.0.1:9000/dashboard?id=Practical22
+ceTaskId=AYkv6rQqvum9vXucn7pn
+ceTaskUrl=http://127.0.0.1:9000/api/ce/task?id=AYkv6rQqvum9vXucn7pn
